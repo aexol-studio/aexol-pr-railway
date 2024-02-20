@@ -1,6 +1,6 @@
 # Hello World in Next.js by Aexol on Railway
 
-Welcome to the "Hello World" application, built with Next.js and proudly hosted by Aexol on render.com.
+Welcome to the "Hello World" application, built with Next.js and proudly hosted by Aexol on railway.com.
 
 # About Aexol
 
